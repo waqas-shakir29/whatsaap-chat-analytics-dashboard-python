@@ -42,7 +42,7 @@ This project demonstrates multiple important **Data Science skills**:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](whatsapp_dashboard.png)
+![Dashboard Preview](images/whatsapp_dashboard_preview.png)
 
 ---
 
